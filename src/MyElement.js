@@ -12,3 +12,5 @@ export class MyElement extends LitElement {
     this.title = '';
   }
 }
+
+customElements.define('my-element', MyElement);
