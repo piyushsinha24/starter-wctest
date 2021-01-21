@@ -1,0 +1,17 @@
+{
+  "name": "my-element",
+  "version": "0.0.0",
+  "description": "Webcomponent my-element following open-wc recommendations",
+  "author": "my-element",
+  "license": "MIT",
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "dependencies": {
+    "lit-html": "^1.0.0",
+    "lit-element": "^2.0.1"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.1"
+  }
+}
